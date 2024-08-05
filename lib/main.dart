@@ -1,4 +1,4 @@
-import 'package:dictionary_app/screen.dart/landing_screen.dart';
+import 'package:dictionary_app/screens/landing_screen.dart';
 import 'package:dictionary_app/services/word_api.dart';
 import 'package:dictionary_app/state/word_state_widget.dart';
 import 'package:dictionary_app/theme/app_theme.dart';
